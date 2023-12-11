@@ -23,4 +23,6 @@ If you are more interested in, check out our poster in <a href="https://github.c
 
 ## Overall Architecture
 
+*** 
+
 <img src="https://github.com/0nandon/DangerCLIP/blob/main/overview.png" width="100%"/>
