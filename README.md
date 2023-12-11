@@ -6,7 +6,7 @@
   <p align="center">
     <strong>Seungjun Lee</strong>
     ·
-    <strong>Desmong Tan</strong>
+    <strong>Desmond Tan</strong>
     ·
     <strong>Thomas Liang</strong>
     
