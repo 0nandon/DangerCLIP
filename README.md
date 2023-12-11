@@ -19,4 +19,4 @@ Overfitting to the training dataset is a common problem in the fully supervised 
 2. We show that giving dense supervision to the model can improve the classification performance of the model. By giving pseudo-mask generated from pretrained segmentation model as supervision, model can understand image more locally with being able to identify more smaller weapons.
 3. Our method surpasses the baseline models with large margin in precision, recall and f1-score metrics, and also shows better robustness to the open-domain dataset.
 
-If you are more interested in, check our poster in <a href="https://github.com/0nandon/DangerCLIP/blob/main/DangerCLIP_poster.pdf">here</a>.
+If you are more interested in, check out our poster in <a href="https://github.com/0nandon/DangerCLIP/blob/main/DangerCLIP_poster.pdf">here</a>.
