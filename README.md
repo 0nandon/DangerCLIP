@@ -14,7 +14,7 @@
   <div align="center"></div>
 </p>
 
-<img src="https://github.com/0nandon/DangerCLIP/blob/main/overview-3.pdf" width="100%"/>
+<img src="https://github.com/0nandon/DangerCLIP/blob/main/overview.png" width="100%"/>
 
 Overfitting to the training dataset is a common problem in the fully supervised setting. Specifically in weapon detection task, this overfitting issue might manifest itself in two ways: 1) Model lacks the ability to detect the unseen weapons from the source dataset. 2) Model is unable to identify danger if the images come from different domain than the source dataset. To mitigate this issue, we propose DangerCLIP, the novel Open-Domain Weapon Detection method with leveraging the generality and robustness of foundation model like CLIP. Our contribution is three-fold:
 1. We propose novel open-domain weapon detection method with leveraging CLIP that can detect weapon or other forms of danger within the images from open-domain.
